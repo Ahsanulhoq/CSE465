@@ -1,2 +1,2 @@
 # CSE465
-(Pattern Recognition &amp;amp; Neural Networks)
+(Pattern Recognition & Neural Networks)
